@@ -28,7 +28,7 @@ To clone and run this application, you'll need VS installed on your computer. Fr
 
 ```bash
 # Clone this repository
-$ git clone git@github.com:Raeludwig/raes-portfolio.git
+$ git clone git@github.com:RubenFr74/franco-portfolio2.git
 
 # Install dependencies
 $ npm install
