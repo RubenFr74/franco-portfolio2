@@ -1,7 +1,8 @@
 {
   "files": {
     "main.css": "/franco-portfolio2/static/css/main.39265bc0.css",
-    "main.js": "/franco-portfolio2/static/js/main.24d19d87.js",
+    "main.js": "/franco-portfolio2/static/js/main.ad160d87.js",
+    "static/media/ceraworks.jpg": "/franco-portfolio2/static/media/ceraworks.d2cc0ef807eb73cd4d09.jpg",
     "static/media/moon-dollars.jpg": "/franco-portfolio2/static/media/moon-dollars.4bf30491b5f3d9fbf064.jpg",
     "static/media/logo2.png": "/franco-portfolio2/static/media/logo2.f9c29cd877e92be47f0f.png",
     "static/media/sherpa.jpg": "/franco-portfolio2/static/media/sherpa.e108f0ed8028fcb8ac7a.jpg",
@@ -10,14 +11,13 @@
     "static/media/html.png": "/franco-portfolio2/static/media/html.2ba4fabc69a89a8f71e6.png",
     "static/media/tailwind.png": "/franco-portfolio2/static/media/tailwind.e47ac876b8d4d0bba47a.png",
     "static/media/css.png": "/franco-portfolio2/static/media/css.69a82c2d9e45c933a9cb.png",
-    "static/media/wip.png": "/franco-portfolio2/static/media/wip.de03a9847a86f730bc7b.png",
     "static/media/javascript.png": "/franco-portfolio2/static/media/javascript.1ccd6ef9bb1f9c84ef00.png",
     "index.html": "/franco-portfolio2/index.html",
     "main.39265bc0.css.map": "/franco-portfolio2/static/css/main.39265bc0.css.map",
-    "main.24d19d87.js.map": "/franco-portfolio2/static/js/main.24d19d87.js.map"
+    "main.ad160d87.js.map": "/franco-portfolio2/static/js/main.ad160d87.js.map"
   },
   "entrypoints": [
     "static/css/main.39265bc0.css",
-    "static/js/main.24d19d87.js"
+    "static/js/main.ad160d87.js"
   ]
 }
